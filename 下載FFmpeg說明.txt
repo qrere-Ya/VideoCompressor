@@ -1,0 +1,22 @@
+FFmpeg 下載與安裝指南
+
+🔗 下載連結：
+https://github.com/BtbN/FFmpeg-Builds/releases
+
+📋 下載步驟：
+1. 點擊上方連結
+2. 找到最新版本
+3. 下載 "ffmpeg-master-latest-win64-gpl.zip"
+4. 解壓縮檔案
+5. 在解壓後的資料夾中找到 "bin" 資料夾
+6. 將 bin 資料夾內的以下檔案複製到本程式的 "ffmpeg" 資料夾：
+   - ffmpeg.exe (必要)
+   - ffprobe.exe (必要)
+   - ffplay.exe (可選)
+
+⚠️ 重要提醒：
+- 不要更改檔案名稱
+- 確保檔案放在正確的 "ffmpeg" 資料夾內
+- 檔案大小約 100MB 左右是正常的
+
+✅ 設定完成後，就可以正常使用影片壓縮工具了！
